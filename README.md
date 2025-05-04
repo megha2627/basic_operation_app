@@ -39,12 +39,18 @@ npm install
 
 Step 3: Compile TypeScript to JavaScript
 Once the dependencies are installed, run the TypeScript compiler to convert TypeScript code to JavaScript:
+
 tsc
 This will generate the public/ folder containing the compiled JavaScript files.
 
+
+
 Step 4: Run the javascript file
+
 node public/index.js
-After compiling the TypeScript code, 
+
+
+
 🤝 Contributing
 Contributions are welcome! If you find any issues or would like to suggest improvements, please feel free to fork the repository, make your changes, and submit a pull request.
 
